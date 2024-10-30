@@ -1,0 +1,8 @@
+*/
+
+!.gitignore
+*.bkp.bkp*
+*.dll
+*.sln
+*.filters
+*.vcxproj*
